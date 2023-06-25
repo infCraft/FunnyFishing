@@ -1,0 +1,9 @@
+name: FunnyFishing
+main: org.time.funnyfishing.FunnyFishing
+version: ${project.version}
+author: Time_Traveller
+api-version: 1.16
+
+commands:
+  fish:
+    description: "开启钓鱼比赛！"

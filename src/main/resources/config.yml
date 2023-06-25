@@ -1,0 +1,36 @@
+#钓鱼插件配置文件
+
+#多久播报一次排行榜（单位：s）
+Timings: 30
+
+#钓上来的物品的分值
+Items:
+  COD: 1.0
+  SALMON: 1.5
+  TROPICAL_FISH: 8.0
+  PUFFERFISH: 2.5
+  BOW: 8.0
+  ENCHANTED_BOOK: 8.0
+  FISHING_ROD: 10.0
+  NAME_TAG: 8.0
+  NAUTILUS_SHELL: 8.0
+  SADDLE: 8.0
+  LILY_PAD: 5.0
+  BOWL: 5.0
+  LEATHER: 3.0
+  LEATHER_BOOTS: 3.0
+  ROTTEN_FLESH: 3.0
+  STICK: 8.0
+  STRING: 8.0
+  POTION: 3.0
+  BONE: 3.0
+  INK_SAC: 12.0
+  TRIPWIRE_HOOK: 3.0
+
+#事件配置
+#事件种类内置，几率可调
+Event:
+  #个人事件，概率为0-1之间
+  Single: 0.1
+  #多人事件
+  Multiple: 0.03

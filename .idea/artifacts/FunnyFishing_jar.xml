@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FunnyFishing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FunnyFishing_jar</output-path>
+    <root id="archive" name="FunnyFishing.jar">
+      <element id="module-output" name="FunnyFishing" />
+    </root>
+  </artifact>
+</component>
